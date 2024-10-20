@@ -1,0 +1,14 @@
+body {
+    background: #efefef;
+}
+
+#outter {
+    width: 450px;
+    height: 450px;
+    background: white;
+    margin: 60px auto;
+    box-shadow: 1px 1px 2px black;
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
